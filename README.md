@@ -14,7 +14,7 @@ To begin using this project, choose one of the following options to get started:
 
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. 
 
-You must have npm installed globally in order to use this build environment. This project was built using node v10.14.2
+You must have npm installed globally in order to use this build environment. This project was built using node v10.14.2 You should also have Mongodb installed on your local machine
 
 ## Bugs and Issues
 
